@@ -1,3 +1,12 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() 
+{
+   
+}
+
 //Dialog of the first example is given below.
 
 /*
